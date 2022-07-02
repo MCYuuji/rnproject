@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162980504985",
+    "project_id": "otp-mypocket",
+    "storage_bucket": "otp-mypocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162980504985:android:91ac9f12ee4cc308d11f08",
+        "android_client_info": {
+          "package_name": "com.mypocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162980504985-je1rha5uol4o47hio0u5p366jngtp1vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mypocket",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "162980504985-0ale03h4tgk3u88gupl37eaifeb6dsho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAohTNsUL-1bOSq06qsXu8XECKK8ilFH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162980504985-0ale03h4tgk3u88gupl37eaifeb6dsho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
